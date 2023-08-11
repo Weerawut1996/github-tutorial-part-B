@@ -1,3 +1,8 @@
+ใช้ extensions 
+> GitHub Pull Requests and Issues
+
+ของ VS CODE ง่ายสุด
+
 # Upload And Update github tutorial
 1. edit .gitignore ให้ เรียบร้อย
 2. check connect

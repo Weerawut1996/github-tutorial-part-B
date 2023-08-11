@@ -1,6 +1,6 @@
 # Upload And Update github tutorial
 1. edit .gitignore ให้ เรียบร้อย
-2. cheak connect
+2. check connect
 ```cmd
 git git init  
 ```  

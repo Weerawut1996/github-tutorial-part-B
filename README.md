@@ -1,4 +1,4 @@
-# UploadAndUpdate-github-tutorial
+# Upload And Update github tutorial
 ## github
 1. edit .gitignore ให้ เรียบร้อย
 2. add ทุกไฟล์

@@ -1,5 +1,4 @@
 # Upload And Update github tutorial
-## github
 1. edit .gitignore ให้ เรียบร้อย
 2. add ทุกไฟล์
 ```cmd

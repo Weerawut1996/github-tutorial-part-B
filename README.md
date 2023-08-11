@@ -1,8 +1,8 @@
 # Upload And Update github tutorial
 1. edit .gitignore ให้ เรียบร้อย
-2. add ทุกไฟล์
+2. cheak connect
 ```cmd
-git add .
+git git init  
 ```  
 3. add commit
 ```cmd

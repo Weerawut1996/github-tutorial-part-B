@@ -8,9 +8,9 @@ git add .
 ```cmd
 git commit -m "first commit"
 ```
-4. git push
+4. git branch
 ```cmd
-git push -u origin main
+git branch -M main
 ```
 ** ถ้ามีปัญหาการ commit ให้อ่าน Error *
 > <div><p>เปลี่ยน config user และ Email</p><a href="https://bobbyhadz.com/blog/change-git-user-or-github-account-in-vscode" >link</a></div>

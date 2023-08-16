@@ -21,9 +21,9 @@ git push -u origin main
 ** ถ้ามีปัญหาการ commit ให้อ่าน Error *
 > <div><p>เปลี่ยน config user และ Email &#32;<a href="https://bobbyhadz.com/blog/change-git-user-or-github-account-in-vscode" >link</a></p></div>
 &#32;
-> ```cmd
-> git config --list
-> git config --global user.name "your_username"
-> git config --global user.email "your_email@example.com"
->  ```
+```cmd
+git config --list
+git config --global user.name "your_username"
+git config --global user.email "your_email@example.com"
+```
 

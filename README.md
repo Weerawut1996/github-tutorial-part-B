@@ -1,4 +1,4 @@
-ใช้ extensions ``` "GitHub Pull Requests and Issues" ``` ของ VS CODE ง่ายสุด
+ใช้ extensions ` "GitHub Pull Requests and Issues" ` ของ VS CODE ง่ายสุด
 # Upload And Update github tutorial
 1. edit .gitignore ให้ เรียบร้อย
 2. check connect
@@ -6,12 +6,16 @@
 git git init  
 ```
 3. add file
-```cmd
-git add *         <-- add all file change
-git add README.md <-- add only flie "README.md"
-```
+>```cmd
+> Add all file Changed
+>>> git add *
+> Add only flie "README.md"
+>>> git add README.md
+> add Muti File
+>>> git add index.html src\css\index.css src\pic\page1.svg
+>```
 5. add commit
-```cmd
+```js
 git commit -m "first commit"
 ```
 5. git push commited to repositories

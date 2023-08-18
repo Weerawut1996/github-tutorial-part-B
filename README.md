@@ -8,7 +8,7 @@
 3. Add file
 >```cmd
 > Add all file Changed
->>> git add *
+>>> git add .
 > Add only flie "README.md"
 >>> git add README.md
 > Add Muti File

@@ -3,7 +3,7 @@
 1. Wdit .gitignore ให้ เรียบร้อย
 2. Check connect
 ```cmd
-git git init  
+git init  
 ```
 3. Add file
 >```cmd

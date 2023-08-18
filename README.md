@@ -24,9 +24,15 @@
 >```
 ** ถ้ามีปัญหาการ commit ให้อ่าน Error *
 > <p>เปลี่ยน config user และ Email &#32;<a href="https://bobbyhadz.com/blog/change-git-user-or-github-account-in-vscode" >link</a></p>
-&#32;
+>
 >```cmd
 >git config --list
 >git config --global user.name "your_username"
 >git config --global user.email "your_email@example.com"
+>```
+
+> <p>rejected master -&#42; master (non-fast-forward)&#32;<a href="https://stackoverflow.com/questions/11696295/rejected-master-master-non-fast-forward">link</a></p>
+
+>```cmd
+> >>git push --force <remote_repository>
 >```

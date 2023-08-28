@@ -1,7 +1,7 @@
 ใช้ extensions ` "GitHub Pull Requests and Issues" ` ของ VS CODE ง่ายสุด
 
 * create a new repository on the command line
-> ```cmd
+> ```git
 > echo "# Project name" >> README.md
 > git init
 > git add README.md
@@ -13,7 +13,7 @@
 
 
 * update repository
-> ```cmd
+> ```git
 > git init
 > git add .
 > git commit -m "commit"

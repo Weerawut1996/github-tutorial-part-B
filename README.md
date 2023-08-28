@@ -1,4 +1,27 @@
 ใช้ extensions ` "GitHub Pull Requests and Issues" ` ของ VS CODE ง่ายสุด
+
+* create a new repository on the command line
+> ```cmd
+> echo "# Project name" >> README.md
+> git init
+> git add README.md
+> git commit -m "first commit"
+> git branch -M main
+> git remote add origin https://github.com/Weerawut1996/Project-name.git
+> git push -u origin main
+> ```
+
+
+* update repository
+> ```cmd
+> git init
+> git add .
+> git commit -m "commit"
+> git branch -M main
+> git push -u origin main
+> ```
+
+
 # Upload And Update github tutorial
 1. Edit .gitignore ให้ เรียบร้อย
 2. Check connect

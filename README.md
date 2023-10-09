@@ -26,7 +26,9 @@
 1. Edit .gitignore ให้ เรียบร้อย
 2. Check connect
 >```cmd
->>> git init  
+>>> git remote -v
+>เพิ่มเติม
+>>>git remote show origin
 >```
 3. Add file
 >```cmd

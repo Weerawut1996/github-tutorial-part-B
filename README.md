@@ -25,10 +25,10 @@
 # Upload And Update github tutorial
 1. Edit .gitignore ให้ เรียบร้อย
 2. Check connect
->```cmd
+>```bat
 >>> git remote -v
->เพิ่มเติม
->>>git remote show origin
+>OR
+>>> git remote show origin
 >```
 3. Add file
 >```cmd
